@@ -39,7 +39,8 @@ This research is carried out as part of the project [AiCOLO](https://wemmertc.gi
 
 ### Create The Dataset
 
-- The dataset should be organized as follows
+- The dataset should be organized as follows:
+
 ![dataset](https://github.com/RobinHCK/Comparison-of-deep-learning-architectures-for-colon-cancer-mutation-detection/blob/main/img/dataset_orga.png)
 
 - If you use QuPath to annotate tumor areas in your medical images, you can use these files to cut patches from the annotated areas:
